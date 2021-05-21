@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Ирина Никулина](https://up.htmlacademy.ru/htmlcss/31/user/1784415).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Шомин] (https://vk.com/shomin https://htmlacademy.ru/profile/sirnet)
+.
 
 ---
 
